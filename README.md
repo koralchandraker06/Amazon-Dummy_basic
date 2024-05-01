@@ -17,7 +17,7 @@ To get started with the Amazon Dummy Page project, follow these steps:
 1) Clone the Repository: Clone this GitHub repository to your local machine using the following command:
 bash
 Copy code:
- *git clone https://github.com/yourusername/amazon-dummy-page.git
+ *git clone https://github.com/koralchandraker06/amazon-dummy-page.git
 2) Navigate to the Project Directory: Move into the project directory:
 bash
 Copy code:
